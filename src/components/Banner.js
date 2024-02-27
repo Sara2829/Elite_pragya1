@@ -11,7 +11,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ "Elites Here"];
+  const toRotate = [ "Elites"];
   const period = 2000;
 
   useEffect(() => {
@@ -78,7 +78,7 @@ export const Banner = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">Welcome</span>
-                <h1>{`Hello`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Elites", "Here", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
+                <h1>{`Hello`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Elites" ]'><span className="wrap">{text}</span></span></h1>
                   <p>Step into the future with Elite – the official departmental club of Electronics and Telecommunication! 🌐✨ We're a community of innovators, connecting minds and sparking creativity. Explore the world of cutting-edge technology and endless possibilities .</p>
                   <br></br>
                   <div className="connect">
