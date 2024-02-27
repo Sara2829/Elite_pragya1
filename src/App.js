@@ -16,12 +16,8 @@ function App() {
   return (
     <div className="App">
       <NavBar />
-      <Banner />
-      {/* <Carousel/> */}
-   
+      <Banner />   
       <Projects />
-      {/* <Carousel/> */}
-{/* <Skills/> */}
       <Slider />
       <Description/>
       <Contact />
