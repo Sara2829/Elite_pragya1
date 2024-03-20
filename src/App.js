@@ -10,13 +10,14 @@ import { Footer } from './components/Footer';
 import Slider from "./components/Slider";
 // import { Skills } from './components/Skills';
 import Description from './components/Description';
-
+import PiyushCarousel from './components/PiyushCarousel';
 
 function App() {
   return (
     <div className="App">
       <NavBar />
-      <Banner />   
+      <Banner />  
+      <PiyushCarousel/> 
       <Projects />
       <Slider />
       <Description/>
